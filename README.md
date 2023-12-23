@@ -25,4 +25,5 @@ https://j-maddaus.github.io/password-generator/
 ## Credits
 https://www.w3schools.com/
 https://www.stackoverflow.com/
+https://developer.mozilla.org/en-US/
 https://www.google.com/
