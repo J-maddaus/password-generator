@@ -20,6 +20,8 @@ Application generates a random password based on input from user.
 
 ![Screenshot 2023-12-22 221206](https://github.com/J-maddaus/password-generator/assets/153030674/3f654efb-8df9-4610-8a08-32a842ceecf6)
 
+https://j-maddaus.github.io/password-generator/
+
 ## Credits
 https://www.w3schools.com/
 https://www.stackoverflow.com/
